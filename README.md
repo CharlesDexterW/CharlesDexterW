@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Andrés Benjamin Garcés Cifuentes, or Benjamin for short. I graduated as Biochemistry engineer at UTA. 
-- 👀 I’m interested in Genomics, Neuroscience and molecular modeling.
-- 🌱 I’m currently learning MATLAB, Python & improving my skills in R.
-- 💞️ I’m looking to collaborate on genetics, genomics and molecular biology projects.
-- 📫 How to reach me agarces2381@gmail.com
+👋 Hi, I'm Benjamín Garcés — Biochemist, researcher, and science communicator based in Ecuador.
 
-<!---
-CharlesDexterW/CharlesDexterW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 My work sits at the intersection of biochemistry, molecular biology, and bioinformatics. I'm currently working as a medical interpreter (ES↔EN) and developing computational pipelines for genomic and enzymatic data analysis.
+
+🧬 Research interests:
+- Genomics 
+- Enzyme structural & phylogenetic analysis
+- miRNA sequence analysis
+- Cryopreservation of endangered amphibians
+- Endocrine disruptors analysis via HPLC
+- Bacteriophages
+
+💻 Tools & languages:
+- Python (genomic pipelines, data analysis, visualization)
+- R (statistical analysis, ggplot2)
+- Bash / Shell scripting
+- Command-line bioinformatics tools (SeqKit, BLAST, NCBI)
+
+📄 Selected work:
+- Freire & Garcés (2022) — Springer International Publishing (TICEC 2022)
+- Undergraduate thesis: Phylogenetic Analysis of PETase enzyme of I. sakaiensis
+
+
+I'm open to remote research collaborations in genomics, molecular biology, and bioinformatics.
+
+📫 Reach me at: agarces2381@gmail.com
+🌐 Portfolio: https://charlesdexterw.github.io/BGC/
+🔗 LinkedIn: https://www.linkedin.com/in

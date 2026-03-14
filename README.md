@@ -24,5 +24,7 @@
 I'm open to remote research collaborations in genomics, molecular biology, and bioinformatics.
 
 📫 Reach me at: agarces2381@gmail.com
+
 🌐 Portfolio: https://charlesdexterw.github.io/BGC/
-🔗 LinkedIn: https://www.linkedin.com/in
+
+🔗 LinkedIn: https://www.linkedin.com/in/abgc2381

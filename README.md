@@ -72,8 +72,8 @@ and university student teams across Latin America.
 
 ## Let's connect
 
-- Personal webpage & portfolio: *[[your-webpage-url]](https://charlesdexterw.github.io/BGC/)*
-- LinkedIn: *[your-linkedin-url]](https://www.linkedin.com/in/abgc2381)*
+- Personal webpage & portfolio: *[[personal-webpage]](https://charlesdexterw.github.io/BGC/)*
+- LinkedIn: *[abgc2381](https://www.linkedin.com/in/abgc2381)*
 - Email: agarces2381@gmail.com
 - Languages: English (CEFR C2) · Spanish (native)
 

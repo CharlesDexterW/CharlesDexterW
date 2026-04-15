@@ -1,11 +1,12 @@
 # Benjamin Garcés · Biochemist & Bioinformatician
 
-I'm a Biochemistry Engineer based in Ambato, Ecuador, working at the intersection of
-wet lab biology and computational analysis. My work spans conservation genomics,
-molecular modeling, and science communication — with a focus on making biological
+I'm a Biochemistry Engineer based in Ambato, Ecuador, currently working on computational analysis & wet lab projects on phage research. My work spans conservation genomics,molecular modeling, and science communication — with a focus on making biological
 data tell a clear story.
 
-Currently a Research Assistant at **Fundación Jambatu** (Quito), where I work on
+Currently an Independent researcher. I'm working on phage recollection, isolation and characterization on a project with Pontífica Universidad Católica del Ecuador.
+
+
+Formerly a Research Assistant at **Fundación Jambatu** (Quito), where I worked on
 threatened amphibian sperm cryopreservation and endocrine disruptor detection via
 HPLC-FD. Previously contributed to environmental quality analysis across Ecuador.
 
@@ -32,10 +33,8 @@ active conservation work with threatened Ecuadorian frog species at Fundación J
 Automated Bash pipeline for reproducible miRNA analysis from miRBase v22.
 Targets *C. elegans* lin-4/let-7 precursors using SeqKit for biochemical metric extraction.
 
-**[Genomics\_Data\_Analysis\_Portfolio](https://github.com/CharlesDexterW/Genomics_Data_Analysis_Portfolio)**
-Python workflows for gene information and chromosomal sequence analysis using the
-mouse genome (mm9 build). Demonstrates end-to-end genomic data handling.
-
+**[mm9-genomic-seq-analysis]([https://github.com/CharlesDexterW/Genomics_Data_Analysis_Portfolio](https://github.com/CharlesDexterW/mm9-genomic-seq-analysis))**
+This Python script performs a detailed analysis of genomic sequence data, specifically focusing on gene information and chromosomal sequences from the mouse genome (mm9 build). It demonstrates fundamental bioinformatics tasks.
 **[TCA-genomics-MM9](https://github.com/CharlesDexterW/TCA-genomics-MM9)**
 Pipeline for analyzing TCA cycle enzyme sequences in the mm9 mouse genome —
 combining metabolic pathway biology with genomic sequence methods.

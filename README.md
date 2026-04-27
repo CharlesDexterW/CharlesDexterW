@@ -33,7 +33,7 @@ active conservation work with threatened Ecuadorian frog species at Fundación J
 Automated Bash pipeline for reproducible miRNA analysis from miRBase v22.
 Targets *C. elegans* lin-4/let-7 precursors using SeqKit for biochemical metric extraction.
 
-**[mm9-genomic-seq-analysis]([https://github.com/CharlesDexterW/Genomics_Data_Analysis_Portfolio](https://github.com/CharlesDexterW/mm9-genomic-seq-analysis))**
+**[mm9-genomic-seq-analysis](https://github.com/CharlesDexterW/mm9-genomic-seq-analysis)**
 This Python script performs a detailed analysis of genomic sequence data, specifically focusing on gene information and chromosomal sequences from the mouse genome (mm9 build). It demonstrates fundamental bioinformatics tasks.
 
 

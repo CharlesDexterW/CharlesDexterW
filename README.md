@@ -35,6 +35,8 @@ Targets *C. elegans* lin-4/let-7 precursors using SeqKit for biochemical metric 
 
 **[mm9-genomic-seq-analysis]([https://github.com/CharlesDexterW/Genomics_Data_Analysis_Portfolio](https://github.com/CharlesDexterW/mm9-genomic-seq-analysis))**
 This Python script performs a detailed analysis of genomic sequence data, specifically focusing on gene information and chromosomal sequences from the mouse genome (mm9 build). It demonstrates fundamental bioinformatics tasks.
+
+
 **[TCA-genomics-MM9](https://github.com/CharlesDexterW/TCA-genomics-MM9)**
 Pipeline for analyzing TCA cycle enzyme sequences in the mm9 mouse genome —
 combining metabolic pathway biology with genomic sequence methods.

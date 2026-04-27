@@ -39,7 +39,7 @@ This Python script performs a detailed analysis of genomic sequence data, specif
 
 **[TCA-genomics-MM9](https://github.com/CharlesDexterW/TCA-genomics-MM9)**
 Pipeline for analyzing TCA cycle enzyme sequences in the mm9 mouse genome —
-combining metabolic pathway biology with genomic sequence methods.
+combining metabolic pathway biology with genomic sequence methods. Work in progress, will be back online soon.
 
 ---
 
